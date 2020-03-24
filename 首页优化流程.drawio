@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T07:37:54.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="wXk05xo70GNFgJcQgJNo" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T07:45:22.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ldLcixk4XvYhoaDephYZ" version="12.9.0" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="822" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -308,6 +308,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="170" as="sourcePoint" />
             <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Aoh7Ow6qL1tTK4FSaNn-3" value="结束问诊" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Aoh7Ow6qL1tTK4FSaNn-5" value="" style="endArrow=open;endSize=12;dashed=1;html=1;fontStyle=1;exitX=0.613;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="PU8PL5qgKJ-KpqshsjZF-70" target="7Aoh7Ow6qL1tTK4FSaNn-3">
+          <mxGeometry x="0.155" y="-27" width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="480" y="665" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Aoh7Ow6qL1tTK4FSaNn-6" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="7Aoh7Ow6qL1tTK4FSaNn-5">
+          <mxGeometry x="0.0725" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
