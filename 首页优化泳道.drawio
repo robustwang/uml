@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T11:04:19.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="2-8qiWeXeL9LhqJ9cxlC" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T11:45:40.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="-2vNp9vSsIDwIsiU-2hP" version="12.9.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,6 +173,9 @@
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="7WOLRkiO_IoQXGCOXDz5-79" target="7WOLRkiO_IoQXGCOXDz5-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7WOLRkiO_IoQXGCOXDz5-75" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="116.25" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-71" value="进入IM" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="300" y="480" width="80" height="60" as="geometry" />
         </mxCell>
@@ -208,9 +211,6 @@
             <mxPoint x="552.5" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WOLRkiO_IoQXGCOXDz5-75" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="110" y="480" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-90" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="450" y="640" width="100" height="60" as="geometry" />
         </mxCell>
@@ -226,26 +226,32 @@
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-79" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , &amp;#34;pingfang sc&amp;#34; ; font-size: 13px&quot;&gt;按时间先后分配（优先分配给最近咨询过的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="625" y="790" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7WOLRkiO_IoQXGCOXDz5-80" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , &amp;#34;pingfang sc&amp;#34; ; font-size: 13px&quot;&gt;分配此医生&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="632.5" y="920" width="170" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="7WOLRkiO_IoQXGCOXDz5-82" target="7WOLRkiO_IoQXGCOXDz5-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WOLRkiO_IoQXGCOXDz5-80" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , &amp;#34;pingfang sc&amp;#34; ; font-size: 13px&quot;&gt;分配此医生&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="625" y="930" width="170" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-82" value="进入IM" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="670" y="1050" width="80" height="60" as="geometry" />
+          <mxGeometry x="677.5" y="1040" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7WOLRkiO_IoQXGCOXDz5-84" value="分诊结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="667.5" y="1180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-93" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="706" y="768" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7WOLRkiO_IoQXGCOXDz5-84" value="分诊结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="660" y="1180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-86" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1460" y="250" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7WOLRkiO_IoQXGCOXDz5-87" value="小助手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1515" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7WOLRkiO_IoQXGCOXDz5-100" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="390" width="50" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="7WOLRkiO_IoQXGCOXDz5-104" value="系统自动为患者选择医生&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1090" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
